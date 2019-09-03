@@ -19,5 +19,6 @@
         <module>transaction</module>
         <module>mockito</module>
         <module>mybatis</module>
+        <module>common</module>
     </modules>
 </project>
