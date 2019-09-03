@@ -16,3 +16,4 @@ logs
 mvnw
 mvnw.*
 .mvn/
+HELP.md
