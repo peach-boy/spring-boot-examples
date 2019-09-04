@@ -17,8 +17,7 @@
         <module>redis</module>
         <module>swagger</module>
         <module>transaction</module>
-        <module>mockito</module>
-        <module>mybatis</module>
+        <module>junit-test</module>
         <module>common</module>
     </modules>
 </project>
