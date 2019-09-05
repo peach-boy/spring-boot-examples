@@ -17,5 +17,6 @@
         <module>rabbitmq</module>
         <module>redis</module>
         <module>transaction</module>
+        <module>elastic-search</module>
     </modules>
 </project>

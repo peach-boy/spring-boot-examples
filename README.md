@@ -20,8 +20,11 @@ TODO
 
 #### redis模块
     springboot使用redis示例代码
-#### elasticjob模块
+#### elastic-job模块
     springboot使用elasticjob示例例代码
+#### elastic-search模块
+     springboot使用elastic-search示例例代码
+     参考博客：https://blog.csdn.net/laoyang360/article/details/79293493
 #### junit-test模块
     springboot中单元测试示例例代码
     1.mocktio框架使用
