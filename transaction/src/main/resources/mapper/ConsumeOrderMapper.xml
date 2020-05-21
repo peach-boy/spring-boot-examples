@@ -8,9 +8,9 @@
     <insert id="insert" parameterType="com.wxt.domain.entity.ConsumeOrderDO" keyProperty="id"
             useGeneratedKeys="true">
         insert into ConsumeOrder
-        (innerOrderNo,outerTradeNo,status)
+        (innerOrderNo,amount,outerTradeNo,status)
         values
-        ( #{innerOrderNo},#{outerTradeNo},#{status})
+        ( #{innerOrderNo},#{amount},#{outerTradeNo},#{status})
     </insert>
 
     <update id="update">

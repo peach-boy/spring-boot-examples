@@ -1,5 +1,7 @@
 package com.wxt.domain.entity;
 
+import java.math.BigDecimal;
+
 /**
  * @Description: TODO
  * @Auther: ThomasWu
@@ -10,6 +12,7 @@ public class ConsumeOrderDO {
     private Integer id;
     private String innerOrderNo;
     private String outerTradeNo;
+    private BigDecimal amount;
     private Integer status;
 
     public Integer getId() {
@@ -42,5 +45,13 @@ public class ConsumeOrderDO {
 
     public void setStatus(Integer status) {
         this.status = status;
+    }
+
+    public BigDecimal getAmount() {
+        return amount;
+    }
+
+    public void setAmount(BigDecimal amount) {
+        this.amount = amount;
     }
 }
