@@ -25,10 +25,7 @@ TODO
 #### elastic-search模块
      springboot使用elastic-search示例例代码
      参考博客：https://blog.csdn.net/laoyang360/article/details/79293493
-#### junit-test模块
-    springboot中单元测试示例例代码
-    1.mocktio框架使用
-    2.嵌入式数据库测试dao层代码
+
 
 
 
