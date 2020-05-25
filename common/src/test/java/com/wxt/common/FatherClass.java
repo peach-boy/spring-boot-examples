@@ -6,7 +6,7 @@ import java.util.Objects;
  * @Description: TODO
  * @Auther: xiantao.wu
  * @Date: 2020/4/28 22:05
- * @Email:xiantao.wu@guanaitong.com
+ * @Email:1414924381@qq.com
  */
 public class FatherClass implements Cloneable {
     private String name;

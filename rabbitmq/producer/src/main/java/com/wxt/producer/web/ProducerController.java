@@ -13,7 +13,7 @@ import javax.annotation.Resource;
  * @Description: TODO
  * @Auther: xiantao.wu
  * @Date: 2020/5/23 18:12
- * @Email:xiantao.wu@guanaitong.com
+ * @Email:1414924381@qq.com
  */
 @RestController
 public class ProducerController {

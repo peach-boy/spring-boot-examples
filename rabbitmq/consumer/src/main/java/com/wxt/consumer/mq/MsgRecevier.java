@@ -19,7 +19,7 @@ import java.util.Objects;
  * @Description: TODO
  * @Auther: xiantao.wu
  * @Date: 2020/5/24 09:44
- * @Email:xiantao.wu@guanaitong.com
+ * @Email:1414924381@qq.com
  */
 @Component
 public class MsgRecevier {

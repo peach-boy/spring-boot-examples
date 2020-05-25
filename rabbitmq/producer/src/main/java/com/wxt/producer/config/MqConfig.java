@@ -17,7 +17,7 @@ import org.springframework.context.annotation.Scope;
  * @Description: TODO
  * @Auther: xiantao.wu
  * @Date: 2020/5/23 18:19
- * @Email:xiantao.wu@guanaitong.com
+ * @Email:1414924381@qq.com
  */
 @Configuration
 public class MqConfig {

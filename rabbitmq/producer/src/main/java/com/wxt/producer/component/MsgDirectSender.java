@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
  * @Description: TODO
  * @Auther: xiantao.wu
  * @Date: 2020/5/23 18:32
- * @Email:xiantao.wu@guanaitong.com
+ * @Email:1414924381@qq.com
  */
 @Component
 public class MsgDirectSender {
